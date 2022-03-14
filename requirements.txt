@@ -1,0 +1,11 @@
+Telethon==1.24.0
+asyncio==3.4.3
+tqdm==4.63.0
+pandas==1.2.2
+seaborn==0.11.2
+matplotlib==3.1.0
+hdbscan==0.8.28
+umap-learn==0.5.2
+numpy==1.20
+pymorphy2==0.9.1
+nltk==3.7
